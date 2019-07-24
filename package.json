@@ -1,0 +1,19 @@
+{
+  "name": "alfred",
+  "version": "1.0.0",
+  "description": "Initial version of Alfred",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "alexa",
+    "alfred"
+  ],
+  "author": "Amazon.com",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "ask-sdk": "^2.0.0",
+    "twitter": "^1.7.1"
+  }
+}
