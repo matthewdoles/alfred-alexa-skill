@@ -12,4 +12,5 @@ Consuming the Twitter API was a rewarding experience. While there were several a
 
 #### Resources:
 Salesforce Trail: [Innovate with Alexa and Amazon Web Services](https://trailhead.salesforce.com/en/content/learn/trails/innovate-with-alexa-and-amazon-web-services)
+
 Vivek Kapoor Udemy Course: [Practical Hands-on Guide for Amazon Alexa Skill Development](https://www.udemy.com/build-your-rad-personal-assistant-with-amazon-alexa-custom-skills/learn/lecture/8519268#overview)
